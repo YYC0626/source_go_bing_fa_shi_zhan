@@ -1,0 +1,4 @@
+#config
+db.uname=root
+db.pwd=123
+db.url=127.0.0.1
